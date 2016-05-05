@@ -1,0 +1,6 @@
+#Motion by mean curvature of curves on surfaces using the Allen–Cahn equation#
+
+##Choi, Y., Jeong, D., Lee, S., Yoo, M., & Kim, J., International Journal of Engineering Science, 2015.##
+
+#Abstract#
+In this paper we develop a fast and accurate numerical method for motion by mean curvature of curves on a surface in three-dimensional space using the Allen–Cahn equation. We use a narrow band domain. We adopt a hybrid explicit numerical method which is based on an operator splitting method. First, we solve the heat equation by using an explicit standard Cartesian finite difference scheme. For the domain boundary cells, we use an interpolation using the closest point method. Then, we update the solution by using a closed-form solution. The proposing numerical algorithm is computationally efficient since we use a hybrid explicit numerical scheme and solve the governing equation only on the narrow domain. We perform a series of numerical experiments. The computational results are consistent with known analytic solutions.
