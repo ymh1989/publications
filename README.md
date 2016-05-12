@@ -28,8 +28,7 @@ Numerical simulation of the zebra pattern formation.
 A hybrid Monte Carlo and finite difference method for option pricing.
 3. Jeong, D., Yoo, M., & Kim, J.
 Finite difference method for the Black-Scholes equation without boundary conditions.
-4. Kim, J., Yoo, M., Son, H., Lee, S., Kim, M., Choi, Y., Jeong, D., & Kim, Y.
-Path Averaged Option Value Criteria for Selecting Better Options.
 
 #BOOK#
 1. 정다래, 김영록, 황형석, 유민현, 김준석, 파생상품 프로그래밍, 경문사, 2015.
+[Google books](https://books.google.co.kr/books?id=0HQ0rgEACAAJ&dq=%ED%8C%8C%EC%83%9D%EC%83%81%ED%92%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&hl=ko&sa=X&redir_esc=y)
