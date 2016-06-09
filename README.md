@@ -21,13 +21,15 @@ using the Black-Scholes equations,
 Discrete Dynamics in Nature and Society, Accepted, 2016.
 [PDF](https://github.com/ymh1989/publications/blob/master/2016_greeks/2016_greeks.pdf)
 
-#SUBMITTED PAPERS#
+#WORKING PAPERS#
 1. Jeong, D., Li, Y., Lee, S., Yoo, M., Choi, Y., & Kim, J.
 Numerical simulation of the zebra pattern formation.
 2. Jeong, D., Yoo, M., & Kim, J.
 A hybrid Monte Carlo and finite difference method for option pricing.
 3. Jeong, D., Yoo, M., & Kim, J.
 Finite difference method for the Black-Scholes equation without boundary conditions.
+4. Kim, J., Yoo, M., Son, H., Lee, S., Kim, M., Choi, Y., Jeong, D., & Kim, Y.
+Path Averaged Option Value Criteria for Selecting Better Options.
 
 #BOOK#
 1. 정다래, 김영록, 황형석, 유민현, 김준석, 파생상품 프로그래밍, 경문사, 2015.
