@@ -22,7 +22,8 @@ Discrete Dynamics in Nature and Society, 2016.
 [PDF](https://github.com/ymh1989/publications/blob/master/2016_greeks/2016_greeks.pdf)
 6. Kim, J., Yoo, M., Son, H., Lee, S., Kim, M., Choi, Y., Jeong, D., & Kim, Y.
 Path Averaged Option Value Criteria for Selecting Better Options,
-Journal of the Korean Society for Industrial and Applied Mathematics, Accepted, 2016
+Journal of the Korean Society for Industrial and Applied Mathematics, Vol.20, No.2, pp.163–174, 2016.
+[PDF](https://github.com/ymh1989/publications/blob/master/2016_PAOV/2016_PAOV.pdf)
 
 #WORKING PAPERS#
 1. Jeong, D., Li, Y., Lee, S., Yoo, M., Choi, Y., & Kim, J.
