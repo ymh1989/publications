@@ -1,6 +1,6 @@
-# Numerical simulation of the zebra pattern formation on a three-dimensional model#
+# Numerical simulation of the zebra pattern formation on a three-dimensional model
 
-## Jeong, D., Li, Y., Choi, Y., Yoo, M., Kang, D., Park, J., ... & Kim, J. (2017). Physica A: Statistical Mechanics and its Applications, 475, 106-116.
+##### Jeong, D., Li, Y., Choi, Y., Yoo, M., Kang, D., Park, J., ... & Kim, J. (2017). Physica A: Statistical Mechanics and its Applications, 475, 106-116.
 
-# Abstract
+### Abstract
  In this paper, we numerically investigate the zebra skin pattern formation on the surface of a zebra model in three-dimensional space. To model the pattern formation, we use the Lengyel–Epstein model which is a two component activator and inhibitor system. The concentration profiles of the Lengyel–Epstein model are obtained by solving the corresponding reaction–diffusion equation numerically using a finite difference method. We represent the zebra surface implicitly as the zero level set of a signed distance function and then solve the resulting system on a discrete narrow band domain containing the zebra skin. The values at boundary are dealt with an interpolation using the closet point method. We present the numerical method in detail and investigate the effect of the model parameters on the pattern formation on the surface of the zebra model.

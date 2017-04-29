@@ -1,6 +1,6 @@
-#A practical finite difference method for the three-dimensional Black-Scholes equation#
+# A practical finite difference method for the three-dimensional Black-Scholes equation
 
-##Kim, J., Kim, T., Jo, J., Choi, Y., Lee, S., Hwang, H., Yoo, M., & Jeong, D., European Journal of Operational Research, 2015.##
+##### Kim, J., Kim, T., Jo, J., Choi, Y., Lee, S., Hwang, H., Yoo, M., & Jeong, D., European Journal of Operational Research, 2015.
 
-#Abstract#
+### Abstract
 In this paper, we develop a fast and accurate numerical method for pricing of the three-asset equity-linked securities options. The option pricing model is based on the Black-Scholes partial differential equation. The model is discretized by using a non-uniform finite difference method and the resulting discrete equations are solved by using an operator splitting method. For fast and accurate calculation, we put more grid points near the singularity of the nonsmooth payoff function. To demonstrate the accuracy and efficiency of the proposed numerical method, we compare the results of the method with those from Monte Carlo simulation in terms of computational cost and accuracy. The numerical results show that the cost of the proposed method is comparable to that of the Monte Carlo simulation and it provides more stable hedging parameters such as the Greeks.

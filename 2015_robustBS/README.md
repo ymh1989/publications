@@ -1,6 +1,6 @@
-#Robust and accurate method for the Black-Scholes equations with payoff-consistent extrapolation#
+# Robust and accurate method for the Black-Scholes equations with payoff-consistent extrapolation
 
-##Choi, Y., Jeong, D., Kim, J., Kim, Y. R., Lee, S., Seo, S., & Yoo, M., Communications of the Korean Mathematical Society, 2015.##
+##### Choi, Y., Jeong, D., Kim, J., Kim, Y. R., Lee, S., Seo, S., & Yoo, M., Communications of the Korean Mathematical Society, 2015.
 
-#Abstract#
+### Abstract
 We present a robust and accurate boundary condition for pricing financial options that is a hybrid combination of the payoff-consistent extrapolation and the Dirichlet boundary conditions. The payoff-consistent extrapolation is an extrapolation which is based on the payoff profile. We apply the new hybrid boundary condition to the multi-dimensional Black–Scholes equations with a high correlation. Correlation terms in mixed derivatives make it more difficult to get stable numerical solutions. However, the proposed new boundary treatments guarantee the stability of the numerical solution with high correlation. To verify the excellence of the new boundary condition, we have several numerical tests such as higher dimensional problem and exotic option with nonlinear payoff. The numerical results demonstrate the robustness and accuracy of the proposed numerical scheme.

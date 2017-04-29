@@ -1,6 +1,6 @@
-#PATH AVERAGED OPTION VALUE CRITERIA FOR SELECTING BETTER OPTIONS#
+# PATH AVERAGED OPTION VALUE CRITERIA FOR SELECTING BETTER OPTIONS
 
-##Kim, J., Yoo, M., Son, H., Lee, S., Kim, M., Choi, Y., Jeong, D., & Kim, Y., Journal of the Korean Society for Industrial and Applied Mathematics, Vol.20, No.2, pp.163–174, 2016.##
+##### Kim, J., Yoo, M., Son, H., Lee, S., Kim, M., Choi, Y., Jeong, D., & Kim, Y., Journal of the Korean Society for Industrial and Applied Mathematics, Vol.20, No.2, pp.163–174, 2016.
 
-#Abstract#
+### Abstract
  In this paper, we propose an optimal choice scheme to determine the best option among comparable options whose current expectations are all the same under the condition that an investor has a confidence in the future value realization of underlying assets. For this purpose, we use a path-averaged option as our base instrument in which we calculate the time discounted value along the path and divide it by the number of time steps for a given expected path. First, we consider three European call options such as vanilla, cash-or-nothing, and asset-or-nothing as our comparable set of choice schemes. Next, we perform the experiments using historical data to prove the usefulness of our proposed scheme. The test suggests that the path-averaged option value is a good guideline to choose an optimal option.

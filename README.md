@@ -1,4 +1,4 @@
-#RESEARCH PUBLICATIONS#
+# RESEARCH PUBLICATIONS
 1. Choi, Y., Jeong, D., Kim, J., Kim, Y. R., Lee, S., Seo, S., & Yoo, M.
 Robust and accurate method for the Black-Scholes equations with payoff-consistent extrapolation,
 Communications of the Korean Mathematical Society, Vol. 30, No. 3, pp.297–311, 2015.
@@ -29,12 +29,10 @@ Finite Difference Method for the Black–Scholes Equation Without Boundary Condi
 Computational Economics, 1-12, 2017.
 [PDF](https://github.com/ymh1989/publications/blob/master/2017_BSBoundary/2017_BSBoundary.pdf)
 
-#WORKING PAPERS#
-1. Jeong, D., Li, Y., Lee, S., Yoo, M., Choi, Y., & Kim, J.
-Numerical simulation of the zebra pattern formation.
-2. Jeong, D., Yoo, M., & Kim, J.
+# WORKING PAPERS
+1. Jeong, D., Yoo, M., & Kim, J.
 A hybrid Monte Carlo and finite difference method for option pricing.
 
-#BOOK#
+# BOOK
 1. 정다래, 김영록, 황형석, 유민현, 김준석, 파생상품 프로그래밍, 경문사, 2015.
 [Google books](https://books.google.co.kr/books?id=0HQ0rgEACAAJ&dq=%ED%8C%8C%EC%83%9D%EC%83%81%ED%92%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&hl=ko&sa=X&redir_esc=y)
