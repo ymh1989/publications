@@ -32,10 +32,15 @@ Computational Economics, 1-12, 2017.
 Numerical simulation of the zebra pattern formation on a three-dimensional model,
 Physica A: Statistical Mechanics and its Applications, 475, 106-116, 2017.
 [PDF](https://github.com/ymh1989/publications/blob/master/2017_Zebra/2017_Zebra.pdf)
+9. Jeong, D., Yoo, M., & Kim, J.
+Numerical simulation of the zebra pattern formation on a three-dimensional model,
+Physica A: Statistical Mechanics and its Applications, 475, 106-116, 2017.
+[PDF](https://github.com/ymh1989/publications/blob/master/2017_Zebra/2017_Zebra.pdf)
+10. Jeong, D., Yoo, M., Yoo, C., & Kim, J.
+ A Hybrid Monte Carlo and Finite Difference Method for Option Pricing,
+ Computational Economics, 1-14, 2017.
+ [PDF](https://github.com/ymh1989/publications/blob/master/2017_Hybrid_BC/2017_Hybrid_BC.pdf)
 
-# WORKING PAPERS
-1. Jeong, D., Yoo, M., & Kim, J.
- hybrid Monte Carlo and finite difference method for option pricing. (revision submitted)
 
 # BOOK
 1. 정다래, 김영록, 황형석, 유민현, 김준석, 파생상품 프로그래밍, 경문사, 2015.
